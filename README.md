@@ -54,5 +54,3 @@
 
 ## 📬 Контакты
 - Telegram: [@MaxDemin87]
-- Email: kolyagd@yandex.ru
-- телефон: 89113665671
