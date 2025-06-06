@@ -53,6 +53,6 @@
 [Исходный код →](https://github.com/Dema267/water_bot)
 
 ## 📬 Контакты
-- Telegram: [@ваш_ник]
+- Telegram: [@MaxDemin87]
 - Email: kolyagd@yandex.ru
 - телефон: 89113665671
